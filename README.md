@@ -7,6 +7,8 @@ rubber-hose
 * looks like
 * Let's add some stuff to the readme
 * Fix issue with commit
+* New items
+* In the readme
 
 Nice touch that it actually previews markdown. This is pretty good. Not sure how good of an editor this is though.
 
