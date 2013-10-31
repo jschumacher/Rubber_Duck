@@ -6,7 +6,6 @@ rubber-hose
 * the preview
 * looks like
 * Let's add some stuff to the readme
-* Fix issue with commit
 * New items
 * In the readme
 
