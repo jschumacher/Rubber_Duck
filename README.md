@@ -3,7 +3,6 @@ rubber-hose
 
 * wonder
 * what 
-* the preview
 * looks like
 * Let's add some stuff to the readme
 * Fix issue with commit
