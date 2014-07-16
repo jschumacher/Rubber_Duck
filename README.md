@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jschumacher/rubber_duck.png?label=ready&title=Ready)](https://waffle.io/jschumacher/rubber_duck)
 rubber-hose
 ===========
 
