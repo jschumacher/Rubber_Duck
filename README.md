@@ -2,9 +2,8 @@
 rubber-hose
 ===========
 
-* wonder
+* wonder woman
 * what 
-* the preview
 * looks like
 * Let's add some stuff to the readme
 * New items
